@@ -1,0 +1,110 @@
+region_id,sales_district,sales_region,Latitude,Longitude
+1,San Francisco,Central West,37.7775,-122.4164
+2,Mexico City,Mexico Central,19.432608,-99.133209
+3,Los Angeles,South West England,34.0522,-118.2437
+4,Guadalajara,Mexico West,20.6767,-103.3475
+5,Vancouver,Canada,49.2608,-123.1139
+6,"Victoria, British Columbia",Canada,48.4222,-123.3657
+7,San Diego,South West England,32.7150,-117.1625
+8,San Diego,South West England,32.7150,-117.1625
+9,San Diego,South West England,32.7150,-117.1625
+10,San Diego,South West England,32.7150,-117.1625
+11,San Diego,South West England,32.7150,-117.1625
+12,San Diego,South West England,32.7150,-117.1625
+13,San Diego,South West England,32.7150,-117.1625
+14,San Diego,South West England,32.7150,-117.1625
+15,San Diego,South West England,32.7150,-117.1625
+16,San Diego,South West England,32.7150,-117.1625
+17,San Diego,South West England,32.7150,-117.1625
+18,Seattle,North West England,47.6062,-122.3321
+19,Seattle,North West England,47.6062,-122.3321
+20,Seattle,North West England,47.6062,-122.3321
+21,Seattle,North West England,47.6062,-122.3321
+22,"Portland, Oregon",North West England,45.5167,-122.6667
+23,"Salem, Oregon",North West England,44.9308,-123.0289
+24,Orizaba,Mexico Central,18.8500,-97.1000
+25,Hidalgo,Mexico Central,19.438105,-99.202766
+26,Mardin,Mexico South,37.3131,40.7350
+27,"Camacho, Minas Gerais",Mexico Central,-20.6250,-45.1569
+28,Acapulco,Mexico West,16.8629,-99.8870
+29,Acapulco,Mexico West,16.8629,-99.8870
+30,Tlaxiaco,Mexico South,17.0000,-97.6833
+31,San Francisco,Central West,37.7775,-122.4164
+32,San Francisco,Central West,37.7775,-122.4164
+33,San Diego,South West,32.7150,-117.1625
+34,San Francisco,Central West,37.7775,-122.4164
+35,San Francisco,Central West,37.7775,-122.4164
+36,San Francisco,Central West,37.7775,-122.4164
+37,San Francisco,Central West,37.7775,-122.4164
+38,San Francisco,Central West,37.7775,-122.4164
+39,San Francisco,Central West,37.7775,-122.4164
+40,San Francisco,Central West,37.7775,-122.4164
+41,San Francisco,Central West,37.7775,-122.4164
+42,San Francisco,Central West,37.7775,-122.4164
+43,San Francisco,Central West,37.7775,-122.4164
+44,San Francisco,Central West,37.7775,-122.4164
+45,San Francisco,Central West,37.7775,-122.4164
+46,San Francisco,Central West,37.7775,-122.4164
+47,Los Angeles,South West England,34.0522,-118.2437
+48,Los Angeles,South West England,34.0522,-118.2437
+49,Los Angeles,South West England,34.0522,-118.2437
+50,Los Angeles,South West England,34.0522,-118.2437
+51,Los Angeles,South West England,34.0522,-118.2437
+52,Los Angeles,South West England,34.0522,-118.2437
+53,Los Angeles,South West England,34.0522,-118.2437
+54,Los Angeles,South West England,34.0522,-118.2437
+55,Los Angeles,South West England,34.0522,-118.2437
+56,Los Angeles,South West England,34.0522,-118.2437
+57,Los Angeles,South West England,34.0522,-118.2437
+58,Los Angeles,South West England,34.0522,-118.2437
+59,Los Angeles,South West England,34.0522,-118.2437
+60,Los Angeles,South West England,34.0522,-118.2437
+61,Los Angeles,South West England,34.0522,-118.2437
+62,Los Angeles,South West England,34.0522,-118.2437
+63,Seattle,North West England,47.6062,-122.3321
+64,"Portland, Oregon",North West England,45.5167,-122.6667
+65,"Portland, Oregon",North West England,45.5167,-122.6667
+66,"Portland, Oregon",North West England,45.5167,-122.6667
+67,"Portland, Oregon",North West England,45.5167,-122.6667
+68,"Portland, Oregon",North West England,45.5167,-122.6667
+69,"Salem, Oregon",North West England,44.9308,-123.0289
+70,"Salem, Oregon",North West England,44.9308,-123.0289
+71,"Salem, Oregon",North West England,44.9308,-123.0289
+72,"Salem, Oregon",North West England,44.9308,-123.0289
+73,Seattle,North West England,47.6062,-122.3321
+74,Seattle,North West England,47.6062,-122.3321
+75,Seattle,North West England,47.6062,-122.3321
+76,"Bremerton, Washington",North West England,47.5654,-122.6247
+77,"Bremerton, Washington",North West England,47.5654,-122.6247
+78,"Bellingham, Washington",Northwest Territories,48.7544,-122.4788
+79,"Bellingham, Washington",Northwest Territories,48.7544,-122.4788
+80,"Bellingham, Washington",Northwest Territories,48.7544,-122.4788
+81,Seattle,Northwest Territories,47.6062,-122.3321
+82,Seattle,Northwest Territories,47.6062,-122.3321
+83,Seattle,Northwest Territories,47.6062,-122.3321
+84,"Tacoma, Washington",Northwest Territories,47.2414,-122.4594
+85,"Tacoma, Washington",Northwest Territories,47.2414,-122.4594
+86,"Tacoma, Washington",Northwest Territories,47.2414,-122.4594
+87,"Spokane, Washington",Northwest Territories,47.6572,-117.4235
+88,"Walla Walla, Washington",Northwest Territories,46.0650,-118.3303
+89,"Yakima, Washington",Northwest Territories,46.6019,-120.5078
+90,"Vancouver, Washington",Ontario,45.6311,-122.6717
+91,"Vancouver, Washington",Ontario,45.6311,-122.6717
+92,"Vancouver, Washington",Ontario,45.6311,-122.6717
+93,"Vancouver, Washington",Ontario,45.6311,-122.6717
+94,"Vancouver, Washington",Ontario,45.6311,-122.6717
+95,"Vancouver, Washington",Ontario,45.6311,-122.6717
+96,Vancouver,Ontario,49.2608,-123.1139
+97,Vancouver,Ontario,49.2608,-123.1139
+98,Vancouver,Ontario,49.2608,-123.1139
+99,"Victoria, British Columbia",Canada,48.4222,-123.3657
+100,"Victoria, British Columbia",Canada,48.4222,-123.3657
+101,"Victoria, British Columbia",Canada,48.4222,-123.3657
+102,"Victoria, British Columbia",Canada,48.4222,-123.3657
+103,"Victoria, British Columbia",Canada,48.4222,-123.3657
+104,"Victoria, British Columbia",Canada,48.4222,-123.3657
+105,"Victoria, British Columbia",Canada,48.4222,-123.3657
+106,Mexico City,Mexico Central,19.432608,-99.133209
+107,Mexico City,Mexico Central,19.432608,-99.133209
+108,Mexico City,Mexico Central,19.432608,-99.133209
+109,Mexico City,Mexico Central,19.432608,-99.133209
